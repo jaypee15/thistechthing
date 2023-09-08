@@ -40,7 +40,7 @@ We strive to maintain a welcoming and inclusive community. Please review our [Co
 
 ## Need Help?
 
-If you have questions, need assistance, or want to report an issue, please [create an issue](https://github.com/jaypee15/ThisTechThing/issues) or send a mail to [webmasterjp15@gmail.com].
+If you have questions, need assistance, or want to report an issue, please [create an issue](https://github.com/jaypee15/ThisTechThing/issues) or [reach me on twitter](https://twitter.com/johnofpaul).
 
 ## Contributors
 
