@@ -6,19 +6,19 @@ Whether you're just starting your tech journey or looking to dive deeper into th
 
 ## Contents
 
-1. **Tech Twitter You Should Probably Follow:** Discover influential individuals and organizations to follow for insights, updates, giveaways (laptop and data), reaources and inspiration within the Nigerian tech community.
+1. 𝕏 **Tech Twitter You Should Probably Follow:** Discover influential individuals and organizations to follow for insights, updates, giveaways (laptop and data), reaources and inspiration within the Nigerian tech community.
 
-2. **Top Tech Personalities Bios:** Learn about the remarkable individuals who have and are still shaping Nigeria's tech landscape, with insightful biographies.
+2. 🧠**Top Tech Personalities Bios:** Learn about the remarkable individuals who have and are still shaping Nigeria's tech landscape, with insightful biographies.
 
-3. **Recommended Readings:** Explore a handpicked list of essential blog posts and tweets that provide a foundation for understanding and doing tech in Nigeria.
+3. 📚**Recommended Readings:** Explore a handpicked list of essential blog posts and tweets that provide a foundation for understanding and doing tech in Nigeria.
 
-4. **Newsletter Subscriptions:** Stay in the loop with recommended newsletters delivering the latest tech news, trends, and insights right to your inbox.
+4. 📬**Newsletters:** Stay in the loop with recommended newsletters delivering the latest tech news, trends, and insights right to your inbox.
 
-5. **Learning Resources:** Access free resources for learning software development, technical writing, design, data analysis, finance and more, along with virtual software schools and programs.
+5. 📖**Learning Resources:** Access free resources for learning software development, technical writing, design, data analysis, finance and more, along with virtual software schools and programs.
    
-6. **Learning platforms:**Get insights and info on available learning platforms and schools where you can get skilled and upskill etc.
+6. 🏫**Learning platforms:**Get insights and info on available learning platforms and schools where you can get skilled and upskill etc.
 
-7. **Internship and Job Opportunities:** Find information on internships (paid and unpaid), opportunities and job openings, jump-starting your career in technology.
+7. 💼**Internship and Job Opportunities:** Find information on internships (paid and unpaid), opportunities and job openings, jump-starting your career in technology.
 
 ## How to Contribute
 
@@ -40,7 +40,7 @@ We strive to maintain a welcoming and inclusive community. Please review our [Co
 
 ## Need Help?
 
-If you have questions, need assistance, or want to report an issue, please [create an issue](link-to-issues) or contact us at [contact-info].
+If you have questions, need assistance, or want to report an issue, please [create an issue](https://github.com/jaypee15/ThisTechThing/issues) or send a mail to [webmasterjp15@gmail.com].
 
 ## Contributors
 
