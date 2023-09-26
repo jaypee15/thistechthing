@@ -16,7 +16,7 @@ Whether you're just starting your tech journey or looking to dive deeper into th
 
 5. 📖**Learning Resources:** Access free resources for learning software development, technical writing, design, data analysis, finance and more, along with virtual software schools and programs.
    
-6. 🏫**Learning platforms:**Get insights and info on available learning platforms and schools where you can get skilled and upskill etc.
+6. 🏫**Learning platforms:** Get insights and info on available learning platforms and schools where you can get skilled and upskill etc.
 
 7. 💼**Internship and Job Opportunities:** Find information on internships (paid and unpaid), opportunities and job openings, jump-starting your career in technology.
 
