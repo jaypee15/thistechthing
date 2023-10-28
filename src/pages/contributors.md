@@ -20,7 +20,7 @@ I would like to express my gratitude to all the contributors who have helped mak
 
 ## How to Contribute
 
-Want to join this list of contributors? Check out our [Contribution Guidelines](contributing.md) to learn how you can get involved.
+Want to join this list of contributors? Check out our [Contribution Guidelines](https://github.com/jaypee15/thistechthing/blob/main/CONTRIBUTING.md) to learn how you can get involved.
 
 ---
 

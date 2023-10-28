@@ -18,9 +18,9 @@ Whether you're just starting your tech journey or looking to dive deeper into th
    
 6. 🏫**Learning platforms:** Get insights and info on available learning platforms and schools where you can get skilled and upskill etc.
 
-7. 💼**Internship and Job Opportunities:** Find information on internships (paid and unpaid), opportunities and job openings, jump-starting your career in technology.
+7. 💼**Internships:** Find information on internships (paid and unpaid), opportunities and job openings, jump-starting your career in technology.
 
-8. 📅 **Tech Events and Conferences:** Get information on tech confereneces and events happening around, both paid and unpaid.
+8. 📅 **Events and Conferences:** Get information on tech confereneces and events happening around, both paid and unpaid.
 
 ## How to Contribute
 

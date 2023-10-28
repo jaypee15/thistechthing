@@ -3,46 +3,54 @@ sidebar_position: 1
 slug: /
 ---
 
-# Tutorial Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+# This Tech Thing
 
-## Getting Started
+Welcome to the This Tech Thing! 🚀 This website and its corresponding [repository](https://github.com/jaypee15/thistechthing) are designed to be your ultimate resource for navigating the dynamic Nigerian tech ecosystem.
 
-Get started by **creating a new site**.
+Whether you're just starting your tech journey or looking to dive deeper into the Nigerian tech scene, you'll find curated collections of almost anything you need here. You don't have to wander.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## What you will find here.
 
-### What you'll need
+1. 𝕏 **Tech Twitter You Should Probably Follow:** Discover influential individuals and organizations to follow for insights, updates, giveaways (laptop and data), reaources and inspiration within the Nigerian tech community.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+2. 🧠**Top Tech Personalities Bios:** Learn about the remarkable individuals who have and are still shaping Nigeria's tech landscape, with insightful biographies.
 
-## Generate a new site
+3. 📚**Recommended Readings:** Explore a handpicked list of essential blog posts and tweets that provide a foundation for understanding and doing tech in Nigeria.
 
-Generate a new Docusaurus site using the **classic template**.
+4. 📬**Newsletters:** Stay in the loop with recommended newsletters delivering the latest tech news, trends, and insights right to your inbox.
 
-The classic template will automatically be added to your project after you run the command:
+5. 📖**Learning Resources:** Access free resources for learning software development, technical writing, design, data analysis, finance and more, along with virtual software schools and programs.
+   
+6. 🏫**Learning platforms:** Get insights and info on available learning platforms and schools where you can get skilled and upskill etc.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+7. 💼**Internship and Job Opportunities:** Find information on internships (paid and unpaid), opportunities and job openings, jump-starting your career in technology.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+8. 📅 **Tech Events and Conferences:** Get information on tech confereneces and events happening around, both paid and unpaid.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## Want to contribute?
 
-## Start your site
+We welcome contributions from the community to make this resource even more valuable. Here's how you can contribute:
 
-Run the development server:
+1. **Fork** this repository to your GitHub account.
+2. **Clone** your forked repository to your local machine.
+3. Make your desired changes or additions.
+4. **Commit** your changes with clear and descriptive commit messages.
+5. **Push** your changes to your GitHub repository.
+6. Create a **Pull Request** (PR) to merge your changes into the main repository.
+7. Ensure your PR includes a concise description of your contribution.
 
-```bash
-cd my-website
-npm run start
-```
+Please review our full [Contribution Guidelines](https://github.com/jaypee15/thistechthing/blob/main/CONTRIBUTING.md) for more details.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+## Code of Conduct
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+We strive to maintain a welcoming and inclusive community. Please review our [Code of Conduct](https://github.com/jaypee15/thistechthing/blob/main/CODE_OF_CONDUCT.md) before contributing.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+## Need Help?
+
+If you have questions, need assistance, or want to report an issue, please [create an issue](https://github.com/jaypee15/ThisTechThing/issues), [A pull request](https://github.com/jaypee15/thistechthing/pulls) or [reach me on twitter](https://twitter.com/johnofpaul).
+
+## Contributors
+
+We'd like to extend our gratitude to all the contributors who have helped make this resource possible. Your contributions are highly valued!
+

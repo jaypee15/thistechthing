@@ -1,0 +1,8 @@
+{
+    "label": "📬 Newsletters",
+    "position": 3,
+    "link": {
+      "type": "generated-index",
+      "description": "Tech newsletters you should probably subscribe to."
+    }
+  }

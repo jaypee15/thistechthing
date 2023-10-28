@@ -1,0 +1,8 @@
+{
+    "label": "📚 Recommended Readings",
+    "position": 5,
+    "link": {
+      "type": "generated-index",
+      "description": "Tech events and conferences for you."
+    }
+  }
