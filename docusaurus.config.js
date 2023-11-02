@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'This tech Thing',
+  title: 'One resource to rule them all',
   tagline: 'One resource to rule them all',
   favicon: 'img/favicon.ico',
 
@@ -68,10 +68,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'This Tech Thing',
+        title: '',
         logo: {
           alt: 'This Tech Thing Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           // {
