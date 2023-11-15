@@ -26,7 +26,7 @@ Whether you're just starting your tech journey or looking to dive deeper into th
 
 7. [💼**Internship Opportunities:**](https://jaypee15.github.io/thistechthing/category/internships) Find information on internships (paid and unpaid), opportunities and job openings, jump-starting your career in technology.
 
-8. [📅 **Tech Events and Conferences:**](http://localhost:3000/thistechthing/category/events-and-conferences) Get information on tech confereneces and events happening around, both paid and unpaid.
+8. [📅 **Tech Events and Conferences:**](https://jaypee15.github.io/thistechthing/category/events-and-conferences) Get information on tech confereneces and events happening around, both paid and unpaid.
 
 ## Want to contribute?
 
